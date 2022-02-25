@@ -14,5 +14,6 @@ public class ComparableRunTimeTest {
         //BatchCTest.batchs();//耗时:125毫秒
 
         //3.异步确认发布
+        AsynchronousCTest.acTest();//耗时:46毫秒
     }
 }

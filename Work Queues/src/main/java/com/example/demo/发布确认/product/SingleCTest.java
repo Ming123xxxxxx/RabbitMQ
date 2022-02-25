@@ -15,6 +15,7 @@ import java.util.concurrent.TimeoutException;
  * @date 2022/2/24 7:39
  */
 public class SingleCTest {
+    //单个确认发布
     public static void singles() throws Exception {
         //队列名称
         String task_queue_name = UUID.randomUUID().toString();

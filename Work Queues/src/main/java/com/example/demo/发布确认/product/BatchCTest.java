@@ -12,6 +12,7 @@ import java.util.UUID;
  * @date 2022/2/24 10:29
  */
 public class BatchCTest {
+    //批量确认发布
     public static void batchs() throws Exception {
         //队列名称
         String task_queue_name = UUID.randomUUID().toString();
