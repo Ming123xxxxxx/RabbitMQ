@@ -11,6 +11,7 @@
     <modules>
         <module>HelloWolrd</module>
         <module>Work Queues</module>
+        <module>死信队列</module>
     </modules>
 
 
